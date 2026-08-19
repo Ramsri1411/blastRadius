@@ -260,6 +260,9 @@ if __name__ == "__main__":
     parser.add_argument("--skip-sync", action="store_true", help="Skip AST Neo4j code sync")
     
     args = parser.parse_args()
+    NEO4J_URI = os.getenv("NEO4J_URI") or "neo4j+s://fae1ba87.databases.neo4j.io"
+    NEO4J_USER = os.getenv("NEO4J_USER") or "fae1ba87"
+    NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD") or "gLVMYFlAVVyfSSanVcoxbYB23WHMzz-TfXUUhFHLUUY"
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
     
     if not args.skip_sync:
