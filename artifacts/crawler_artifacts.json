@@ -1,0 +1,4240 @@
+{
+  "base_url": "https://conduit.bondaracademy.com",
+  "screens": [
+    {
+      "route": "/",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/root.png",
+      "elements_count": 62,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "https://bondaracademy.com",
+          "href": "https://bondaracademy.com?utm_source=conduitapp&utm_medium=subdomain&utm_campaign=subdomain_traffic",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Your Feed",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_6",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Global Feed",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_7",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_10",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "2206",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_11",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Discover Bondar Academy: Your Gateway to Efficient Learning ",
+          "href": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_14",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "482",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "The value of pre-recorded video classes. The most efficient ",
+          "href": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_17",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_18",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "247",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_19",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Mastering Knowledge with Self-Assessments: Identifying and B",
+          "href": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_20",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_21",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_22",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "115",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_23",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Practical Implementation of Skills: Homework Assignments wit",
+          "href": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_24",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_25",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_26",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "104",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_27",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Embracing Daily Git Routines: Real Code Reviews on GitHub fo",
+          "href": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_28",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_29",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_30",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "76",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_31",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Engaging in Live Zoom Sessions: Interact with Instructors an",
+          "href": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_32",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_33",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_34",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "72",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_35",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Utilizing Slack for Continuous Engagement: Connect with Inst",
+          "href": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_36",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_37",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_38",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "67",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_39",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Stay Ahead with Bondar Academy: Subscribe to Our YouTube cha",
+          "href": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_40",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_41",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_42",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "67",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_43",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Explore the Latest in Learning: Bondar Academy Blog's Educat",
+          "href": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_44",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_45",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_46",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "75",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_47",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Take the Next Step: Join Bondar Academy Today and Enroll int",
+          "href": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_48",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "1",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_49",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Test",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_50",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Blog",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_51",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "YouTube",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_52",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Coding",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_53",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Git",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_54",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_55",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Slack",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_56",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Zoom",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_57",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "GitHub",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_58",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Value-Focused",
+          "href": null,
+          "selector": "a"
+        },
+        {
+          "element_id": "a_59",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_60",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_61",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/login",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/login.png",
+      "elements_count": 12,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Need an account?",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "form_5",
+          "tag": "form",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": null,
+          "selector": "form"
+        },
+        {
+          "element_id": "input_6",
+          "tag": "input",
+          "type": "text",
+          "name": null,
+          "text": "",
+          "href": null,
+          "selector": "input"
+        },
+        {
+          "element_id": "input_7",
+          "tag": "input",
+          "type": "password",
+          "name": null,
+          "text": "",
+          "href": null,
+          "selector": "input"
+        },
+        {
+          "element_id": "button_8",
+          "tag": "button",
+          "type": "submit",
+          "name": null,
+          "text": "Sign in",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_11",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/register",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/register.png",
+      "elements_count": 13,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Have an account?",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "form_5",
+          "tag": "form",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": null,
+          "selector": "form"
+        },
+        {
+          "element_id": "input_6",
+          "tag": "input",
+          "type": "text",
+          "name": null,
+          "text": "",
+          "href": null,
+          "selector": "input"
+        },
+        {
+          "element_id": "input_7",
+          "tag": "input",
+          "type": "text",
+          "name": null,
+          "text": "",
+          "href": null,
+          "selector": "input"
+        },
+        {
+          "element_id": "input_8",
+          "tag": "input",
+          "type": "password",
+          "name": null,
+          "text": "",
+          "href": null,
+          "selector": "input"
+        },
+        {
+          "element_id": "button_9",
+          "tag": "button",
+          "type": "submit",
+          "name": null,
+          "text": "Sign up",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_11",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/profile/Artem%20Bondar",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/profile_Artem_20Bondar.png",
+      "elements_count": 51,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_4",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "My Posts",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_6",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Favorited Posts",
+          "href": "/profile/Artem%20Bondar/favorites",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_7",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_9",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "2206",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Discover Bondar Academy: Your Gateway to Efficient Learning ",
+          "href": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_11",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_13",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "482",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "The value of pre-recorded video classes. The most efficient ",
+          "href": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_17",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "247",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_18",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Mastering Knowledge with Self-Assessments: Identifying and B",
+          "href": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_19",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_20",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_21",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "115",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_22",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Practical Implementation of Skills: Homework Assignments wit",
+          "href": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_23",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_24",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_25",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "104",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_26",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Embracing Daily Git Routines: Real Code Reviews on GitHub fo",
+          "href": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_27",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_28",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_29",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "76",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_30",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Engaging in Live Zoom Sessions: Interact with Instructors an",
+          "href": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_31",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_32",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_33",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "72",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_34",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Utilizing Slack for Continuous Engagement: Connect with Inst",
+          "href": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_35",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_36",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_37",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "67",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_38",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Stay Ahead with Bondar Academy: Subscribe to Our YouTube cha",
+          "href": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_39",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_40",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_41",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "67",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_42",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Explore the Latest in Learning: Bondar Academy Blog's Educat",
+          "href": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_43",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_44",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_45",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "75",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_46",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Take the Next Step: Join Bondar Academy Today and Enroll int",
+          "href": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_47",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "1",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_48",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_49",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_50",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Discover-Bondar-Academy_-Your-Gateway-to-Efficient-Learning-1.png",
+      "elements_count": 18,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (2206)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "https://www.bondaracademy.com",
+          "href": "https://www.bondaracademy.com",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_12",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (2206)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_17",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_The-value-of-pre-recorded-video-classes_-The-most-efficient-approach-to-tranfer-the-knowledge-1.png",
+      "elements_count": 17,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (482)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_10",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (482)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Mastering-Knowledge-with-Self-Assessments_-Identifying-and-Bridging-Learning-Gaps-in-Education-1.png",
+      "elements_count": 17,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (247)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_10",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (247)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Practical-Implementation-of-Skills_-Homework-Assignments-with-Instructor-Supervision-1.png",
+      "elements_count": 17,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (115)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_10",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (115)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Embracing-Daily-Git-Routines_-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice_-1.png",
+      "elements_count": 18,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (104)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "https://www.youtube.com/@BondarAcademy/playlists",
+          "href": "https://www.youtube.com/@BondarAcademy/playlists",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_12",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (104)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_17",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Engaging-in-Live-Zoom-Sessions_-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1.png",
+      "elements_count": 17,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (76)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_10",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (76)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Utilizing-Slack-for-Continuous-Engagement_-Connect-with-Instructors-Share-Insights-and-Collaborate-1.png",
+      "elements_count": 17,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (72)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_10",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (72)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_12",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Stay-Ahead-with-Bondar-Academy_-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1.png",
+      "elements_count": 18,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (67)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "https://www.youtube.com/@bondaracademy",
+          "href": "https://www.youtube.com/@bondaracademy",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_12",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (67)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_17",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Explore-the-Latest-in-Learning_-Bondar-Academy-Blog_s-Educational-Insights-from-Our-Experts-1.png",
+      "elements_count": 18,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (67)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "https://www.bondaracademy.com/blog",
+          "href": "https://www.bondaracademy.com/blog",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_12",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (67)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_17",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/article_Take-the-Next-Step_-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1.png",
+      "elements_count": 18,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_4",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_6",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_7",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (75)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "https://www.bondaracademy.com",
+          "href": "https://www.bondaracademy.com",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_10",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Artem Bondar",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_11",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "button_12",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Favorite Article (75)",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_13",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_14",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_15",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_16",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_17",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    },
+    {
+      "route": "/profile/Artem%20Bondar/favorites",
+      "title": "Conduit | Practice Test Automation",
+      "screenshot_file": "screenshots/profile_Artem_20Bondar_favorites.png",
+      "elements_count": 10,
+      "elements": [
+        {
+          "element_id": "a_0",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_1",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Home",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_2",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign in",
+          "href": "/login",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_3",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Sign up",
+          "href": "/register",
+          "selector": "a"
+        },
+        {
+          "element_id": "button_4",
+          "tag": "button",
+          "type": null,
+          "name": null,
+          "text": "Follow Artem Bondar",
+          "href": null,
+          "selector": "button"
+        },
+        {
+          "element_id": "a_5",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "My Posts",
+          "href": "/profile/Artem%20Bondar",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_6",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Favorited Posts",
+          "href": "/profile/Artem%20Bondar/favorites",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_7",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "conduit",
+          "href": "/",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_8",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "RealWorld OSS Project",
+          "href": "https://github.com/gothinkster/realworld",
+          "selector": "a"
+        },
+        {
+          "element_id": "a_9",
+          "tag": "a",
+          "type": null,
+          "name": null,
+          "text": "Bondar Academy",
+          "href": "https://bondaracademy.com",
+          "selector": "a"
+        }
+      ]
+    }
+  ],
+  "transitions": [
+    {
+      "from_route": "/",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "triggered_by": "a",
+      "trigger_text": "Discover Bondar Academy: Your Gateway to Efficient Learning "
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "triggered_by": "a",
+      "trigger_text": "The value of pre-recorded video classes. The most efficient "
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "triggered_by": "a",
+      "trigger_text": "Mastering Knowledge with Self-Assessments: Identifying and B"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "triggered_by": "a",
+      "trigger_text": "Practical Implementation of Skills: Homework Assignments wit"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "triggered_by": "a",
+      "trigger_text": "Embracing Daily Git Routines: Real Code Reviews on GitHub fo"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "triggered_by": "a",
+      "trigger_text": "Engaging in Live Zoom Sessions: Interact with Instructors an"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "triggered_by": "a",
+      "trigger_text": "Utilizing Slack for Continuous Engagement: Connect with Inst"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "triggered_by": "a",
+      "trigger_text": "Stay Ahead with Bondar Academy: Subscribe to Our YouTube cha"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "triggered_by": "a",
+      "trigger_text": "Explore the Latest in Learning: Bondar Academy Blog's Educat"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "triggered_by": "a",
+      "trigger_text": "Take the Next Step: Join Bondar Academy Today and Enroll int"
+    },
+    {
+      "from_route": "/",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/login",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/login",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/login",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/login",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/login",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Need an account?"
+    },
+    {
+      "from_route": "/login",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/register",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/register",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/register",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/register",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/register",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Have an account?"
+    },
+    {
+      "from_route": "/register",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "My Posts"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar/favorites",
+      "triggered_by": "a",
+      "trigger_text": "Favorited Posts"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "triggered_by": "a",
+      "trigger_text": "Discover Bondar Academy: Your Gateway to Efficient Learning "
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "triggered_by": "a",
+      "trigger_text": "The value of pre-recorded video classes. The most efficient "
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "triggered_by": "a",
+      "trigger_text": "Mastering Knowledge with Self-Assessments: Identifying and B"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "triggered_by": "a",
+      "trigger_text": "Practical Implementation of Skills: Homework Assignments wit"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "triggered_by": "a",
+      "trigger_text": "Embracing Daily Git Routines: Real Code Reviews on GitHub fo"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "triggered_by": "a",
+      "trigger_text": "Engaging in Live Zoom Sessions: Interact with Instructors an"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "triggered_by": "a",
+      "trigger_text": "Utilizing Slack for Continuous Engagement: Connect with Inst"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "triggered_by": "a",
+      "trigger_text": "Stay Ahead with Bondar Academy: Subscribe to Our YouTube cha"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "triggered_by": "a",
+      "trigger_text": "Explore the Latest in Learning: Bondar Academy Blog's Educat"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "triggered_by": "a",
+      "trigger_text": "Take the Next Step: Join Bondar Academy Today and Enroll int"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "a"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "Artem Bondar"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "sign up"
+    },
+    {
+      "from_route": "/article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar/favorites",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar/favorites",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "Home"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar/favorites",
+      "to_route": "/login",
+      "triggered_by": "a",
+      "trigger_text": "Sign in"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar/favorites",
+      "to_route": "/register",
+      "triggered_by": "a",
+      "trigger_text": "Sign up"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar/favorites",
+      "to_route": "/profile/Artem%20Bondar",
+      "triggered_by": "a",
+      "trigger_text": "My Posts"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar/favorites",
+      "to_route": "/profile/Artem%20Bondar/favorites",
+      "triggered_by": "a",
+      "trigger_text": "Favorited Posts"
+    },
+    {
+      "from_route": "/profile/Artem%20Bondar/favorites",
+      "to_route": "/",
+      "triggered_by": "a",
+      "trigger_text": "conduit"
+    }
+  ]
+}

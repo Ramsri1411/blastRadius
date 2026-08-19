@@ -1,0 +1,33 @@
+{
+  "base_url": "https://conduit.bondaracademy.com",
+  "mappings": [
+    {
+      "route": "/login",
+      "component": "AuthForm.js",
+      "requirement": "User Authentication",
+      "test_id": "TEST-101",
+      "test_file": "tests/test_auth.py"
+    },
+    {
+      "route": "/editor",
+      "component": "Editor.js",
+      "requirement": "Article Management",
+      "test_id": "TEST-103",
+      "test_file": "tests/test_editor.py"
+    },
+    {
+      "route": "/settings",
+      "component": "SettingsForm.js",
+      "requirement": "User Settings",
+      "test_id": "TEST-107",
+      "test_file": "tests/test_settings.py"
+    },
+    {
+      "route": "/admin-analytics",
+      "component": "AdminDashboard.js",
+      "requirement": "Admin Analytics Dashboard",
+      "test_id": "TEST-999",
+      "test_file": "tests/test_admin.py"
+    }
+  ]
+}
