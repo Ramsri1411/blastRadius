@@ -1,11 +1,12 @@
 import os
 import json
 from neo4j import GraphDatabase
+from ast_parser import sync_ast_to_neo4j
 
-# Environment setup with fallbacks
-NEO4J_URI = os.getenv("NEO4J_URI", "neo4j+s://fae1ba87.databases.neo4j.io")
-NEO4J_USER = os.getenv("NEO4J_USER", "fae1ba87")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "gLVMYFlAVVyfSSanVcoxbYB23WHMzz-TfXUUhFHLUUY")
+# Environment setup with robust fallbacks
+NEO4J_URI = os.getenv("NEO4J_URI") or "neo4j+s://fae1ba87.databases.neo4j.io"
+NEO4J_USER = os.getenv("NEO4J_USER") or "fae1ba87"
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD") or "gLVMYFlAVVyfSSanVcoxbYB23WHMzz-TfXUUhFHLUUY"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ARTIFACTS_FILE = os.path.join(BASE_DIR, "artifacts", "crawler_artifacts.json")
@@ -16,7 +17,6 @@ def sync_3layer_graph(driver, base_dir=None):
     Ingests Requirements, Crawler UI Artifacts, and Code Components
     into a unified 3-Layer Neo4j Knowledge Graph.
     """
-    # Rest of function remains the same...
     with driver.session() as session:
         # Clear existing graph for clean sync
         session.run("MATCH (n) DETACH DELETE n")
@@ -27,14 +27,17 @@ def sync_3layer_graph(driver, base_dir=None):
                 mapping = json.load(f)
             
             for item in mapping.get("mappings", []):
+                comp_filename = os.path.basename(item["component"])
                 session.run("""
                     MERGE (r:Requirement {id: $test_id})
                     SET r.title = $requirement, 
                         r.expected_route = $route
-                    MERGE (c:Component {name: $component})
+                    MERGE (c:Component {name: $comp_name})
+                    SET c.full_path = $full_comp
                     MERGE (t:TestCase {id: $test_id, file: $test_file})
                     MERGE (t)-[:VERIFIES]->(r)
-                """, **item)
+                """, test_id=item["test_id"], requirement=item["requirement"], route=item["route"],
+                     comp_name=comp_filename, full_comp=item["component"], test_file=item["test_file"])
             print("[Graph] Layer 1 (Requirements & Test Mappings) Synced.")
 
         # --- LAYER 2: Ingest DOM / UI Crawled Artifacts ---
@@ -46,23 +49,23 @@ def sync_3layer_graph(driver, base_dir=None):
             for screen in crawl_data.get("screens", []):
                 session.run("""
                     MERGE (s:Screen {route: $route})
-                    SET s.title = $title, s.screenshot = $screenshot_file
+                    SET s.title = $title, s.screenshot = $screenshot
                     
                     WITH s
                     OPTIONAL MATCH (r:Requirement {expected_route: $route})
                     FOREACH (_ IN CASE WHEN r IS NOT NULL THEN [1] ELSE [] END |
                         MERGE (r)-[:EXPECTS_UI]->(s)
                     )
-                """, **screen)
+                """, route=screen["route"], title=screen.get("title", ""), screenshot=screen.get("screenshot", ""))
 
-                # Connect Screen to UI Elements
                 for elem in screen.get("elements", []):
                     session.run("""
                         MATCH (s:Screen {route: $route})
                         MERGE (e:UIElement {id: $element_id, selector: $selector})
                         SET e.tag = $tag, e.text = $text, e.type = $type
                         MERGE (s)-[:HAS_ELEMENT]->(e)
-                    """, route=screen["route"], **elem)
+                    """, route=screen["route"], element_id=elem["element_id"], selector=elem["selector"],
+                         tag=elem.get("tag", ""), text=elem.get("text", ""), type=elem.get("type", ""))
 
             # Insert Interaction Transitions
             for trans in crawl_data.get("transitions", []):
@@ -71,7 +74,8 @@ def sync_3layer_graph(driver, base_dir=None):
                     MATCH (to:Screen {route: $to_route})
                     MERGE (from)-[t:TRANSITIONS_TO {by: $triggered_by}]->(to)
                     SET t.label = $trigger_text
-                """, **trans)
+                """, from_route=trans.get("from_route"), to_route=trans.get("to_route"),
+                     triggered_by=trans.get("triggered_by", ""), trigger_text=trans.get("trigger_text", ""))
                 
             print("[Graph] Layer 2 (DOM / UI Crawled Artifacts & Transitions) Synced.")
 
@@ -80,11 +84,13 @@ def sync_3layer_graph(driver, base_dir=None):
             with open(MAPPING_FILE, "r", encoding="utf-8") as f:
                 mapping = json.load(f)
             for item in mapping.get("mappings", []):
+                comp_filename = os.path.basename(item["component"])
                 session.run("""
-                    MATCH (c:Component {name: $component})
+                    MATCH (c:Component)
+                    WHERE c.name = $comp_name OR c.full_path = $full_comp
                     MATCH (s:Screen {route: $route})
                     MERGE (s)-[:IMPLEMENTED_BY]->(c)
-                """, **item)
+                """, comp_name=comp_filename, full_comp=item["component"], route=item["route"])
             print("[Graph] Layer 3 (Code Components to UI) Linked.")
 
 def detect_absence(driver):
@@ -113,10 +119,12 @@ def detect_absence(driver):
         print("✅ All defined requirements have corresponding live UI screens.")
     print("=========================================================\n")
     return results
+
 def sync_codebase_to_neo4j(driver, *args, **kwargs):
-    """Wrapper to maintain backwards compatibility with TestSigma_App.py."""
+    """Alias function accepting flexible positional arguments for TestSigma_App.py compatibility."""
     print("[Graph] Triggering 3-Layer Knowledge Graph Sync...")
     sync_3layer_graph(driver)
+
 if __name__ == "__main__":
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
     sync_3layer_graph(driver)
