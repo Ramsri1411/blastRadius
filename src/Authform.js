@@ -2,4 +2,4 @@
 import Button from './Button';
 import Header from './Header';
 
-console.log("Authentication Form Component");
+console.log("Authentication Form Components");

@@ -364,9 +364,9 @@
         },
         {
           "element_id": "button_10",
-          "selector": "button:has-text('2207')",
+          "selector": "button:has-text('2208')",
           "tag": "button",
-          "text": "2207",
+          "text": "2208",
           "type": "interactive"
         },
         {
@@ -392,9 +392,9 @@
         },
         {
           "element_id": "button_14",
-          "selector": "button:has-text('482')",
+          "selector": "button:has-text('483')",
           "tag": "button",
-          "text": "482",
+          "text": "483",
           "type": "interactive"
         },
         {
