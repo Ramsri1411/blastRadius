@@ -1,4 +1,4 @@
-﻿# TestSigma Blast-Radius Engine 🚀
+﻿# Blast-Radius Engine 🚀
 > **Graph-Driven Automated Test Selection & Impact Analysis Agent**
 
 An agentic testing engine that calculates the precise failure propagation path (blast radius) of codebase changes. By constructing a **3-Layer Knowledge Graph** in Neo4j, it maps source-code component dependencies to high-level UI routes, product specifications (PRDs), and Playwright/pytest regression tests. 
@@ -64,7 +64,7 @@ Instead of running slow, expensive E2E test suites on every pull request, this e
 │       └── blast_radius.yml      # CI/CD pipeline configuration for GitHub Actions
 ├── crawler.py                    # Playwright UI route & screen dissector
 ├── sync_graph.py                 # AST component parser & Neo4j sync engine
-├── TestSigma_App.py              # Core blast-radius orchestration driver
+├── App.py                        # Core blast-radius orchestration driver
 ├── requirements.txt              # Python dependencies
 ├── latest_report.html            # Generated non-technical QA report artifact
 └── README.md                     # Documentation
@@ -128,7 +128,7 @@ python sync_graph.py
 Make a change to any source file or simulate a Git change delta, then run the pipeline:
 
 \\\ash
-python TestSigma_App.py
+python App.py
 \\\
 
 After execution finishes, open \latest_report.html\ in any browser to inspect the impacted user flows, requirements, and test run outcomes.
